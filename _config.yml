@@ -11,7 +11,8 @@ title: title
 description: desc
 image:
   path: "/img/test.png"
-author: progemaster
+author: 
+  twitter: progemaster
 seo_tag:
   image:
     path: /img/test.png
