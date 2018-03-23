@@ -16,3 +16,4 @@ header:
   image: &image /test.png
 image: 
   path: *image
+cover: /test.png
