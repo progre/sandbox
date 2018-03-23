@@ -12,3 +12,7 @@ social:
   name: Progre
   links:
     - https://twitter.com/progremaster
+header:
+  image: &image /test.png
+image: 
+  path: *image
