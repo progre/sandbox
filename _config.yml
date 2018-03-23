@@ -12,3 +12,6 @@ description: desc
 image:
   path: /img/test.png
 author: Proge
+seo_tag:
+  image:
+    path: /img/test.png
