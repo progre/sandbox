@@ -9,5 +9,6 @@ social:
     - https://github.com/progre
 title: title
 description: desc
-image: /img/test.png
+image:
+  path: /img/test.png
 author: Proge
