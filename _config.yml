@@ -5,5 +5,5 @@ readme_index:
   enabled: true
 layout: post
 title: "GitBucket 4.2 released!"
-image: /sandbox/img/test.png
-logo: /sandbox/img/test.png
+image: /test.png
+logo: /img/test.png
