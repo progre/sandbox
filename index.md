@@ -1,3 +1,0 @@
-# sandbox
-
-[readme](README.md)
