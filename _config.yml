@@ -6,14 +6,14 @@ readme_index:
   enabled: true
 layout: post
 title: "GitBucket 4.2 released!"
-image: /test.png
-logo: /img/test.png
+image: //test.png
+logo: //img/test.png
 social:
   name: Progre
   links:
     - https://twitter.com/progremaster
 header:
-  image: &image /test.png
+  image: &image //test.png
 image: 
   path: *image
-cover: /test.png
+cover: //test.png
