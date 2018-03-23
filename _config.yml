@@ -1,11 +1,8 @@
 plugins:
   - jekyll-readme-index
-  - jekyll-seo-tag
 theme: jekyll-theme-slate
 readme_index:
   enabled: true
 layout: post
 title: "GitBucket 4.2 released!"
-date: 2016-07-02 00:00:00
 image: /images/gitbucket-4.2/adminlte.png
-categories: gitbucket
