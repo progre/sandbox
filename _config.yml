@@ -1,7 +1,6 @@
 theme: jekyll-theme-architect
 twitter:
   username: progremaster
-logo: /img/test.png
 social:
   name: Progre
   links:
@@ -12,6 +11,7 @@ description: desc
 image:
   path: "/img/test.png"
 author: 
+  name: Progre
   twitter: progemaster
 seo_tag:
   image:
