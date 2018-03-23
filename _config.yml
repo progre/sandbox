@@ -8,14 +8,11 @@ social:
     - https://github.com/progre
 title: title
 description: desc
-logo: "/img/test.png"
+logo: 300.png
 image:
-  path: "/img/test.png"
+  path: 300.png
   width: 300
   height: 300
 author: 
   name: Progre
   twitter: progemaster
-seo_tag:
-  image:
-    path: "/img/test.png"
