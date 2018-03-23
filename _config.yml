@@ -9,7 +9,10 @@ social:
 title: title
 description: desc
 logo: "/img/test.png"
-image: "/img/test.png"
+image:
+  path: "/img/test.png"
+  width: 300
+  height: 300
 author: 
   name: Progre
   twitter: progemaster
