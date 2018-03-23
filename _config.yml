@@ -10,8 +10,8 @@ social:
 title: title
 description: desc
 image:
-  path: /img/test.png
-author: Proge
+  path: "/img/test.png"
+author: progemaster
 seo_tag:
   image:
     path: /img/test.png
