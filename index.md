@@ -1,3 +1,7 @@
+<head>
+<meta property="twitter:card" content="summary" />
+</head>
+
 ---
 image:
   path: 300.png
