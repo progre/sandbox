@@ -1,4 +1,3 @@
-{% spaceless %}
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -13,7 +12,7 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    {% comment %} SEO Start {% endcomment %}
+    {%- comment %} SEO Start {% endcomment -%}
     <title>{{ site.title }}</title>
     <link rel="icon" href="{{ site.favicon }}">
     <meta name="description" content="{{ site.description }}">
@@ -21,7 +20,7 @@
     <meta property="og:title" content="{{ site.title }}" />
     <meta property="og:description" content="{{ site.description }}" />
     <meta property="og:image" content="{{ site.image_absolute_url }}" />
-    {% comment %} SEO End {% endcomment %}
+    {%- comment -%} SEO End {%- endcomment -%}
 
   </head>
 
@@ -80,4 +79,3 @@
     {% endif %}
   </body>
 </html>
-{% endspaceless %}
