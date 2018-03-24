@@ -1,5 +1,5 @@
 theme: jekyll-theme-architect
-plugins:
+gems:
   - jekyll-readme-index
 readme_index:
   enabled:          true
