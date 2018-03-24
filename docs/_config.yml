@@ -1,1 +1,18 @@
 theme: jekyll-theme-architect
+social:
+  name: Progre
+  links:
+    - https://twitter.com/progremaster
+    - https://github.com/progre
+title: title
+description: desc
+date: 0
+  
+logo: 300.png
+image:
+  path: 300.png
+  width: 300
+  height: 300
+author: 
+  name: Progre
+  twitter: progemaster
